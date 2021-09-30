@@ -7,7 +7,8 @@ and two weeks so that the entire class can be fit into a single semester.
 Most units currently have four or five components:
 * **Lecture Notes**:  These are slides accompanying the class lecture.  They include code snippets
    from the demos.   
-* **Lecture Videos**:  These lecture videos are available on Brightspace.
+* **Lecture Videos**:  The lecture videos are available on Brightspace.
+* **Whiteboard**: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)
 * **Demo**: These are python-based [Jupyter notebooks](http://jupyter.org/)
    for demonstrations given during the lectures.  Some demos have a
    component that is done in class.  The demos do not generally cover
@@ -24,7 +25,7 @@ If you are an instructor
 and wish copies of the solutions for yourself,
 please contact Sundeep Rangan at <srangan@nyu.edu>.
 
-* [Fall 2021 Syllabus](./lectures/GY6143_ML_Syllabus_F21.pdf)
+* Syllabus: [Fall 2021](./lectures/GY6143_ML_Syllabus_F21.pdf)   
 
 * Setting up python and jupyter notebook
     * [Using Google Colaboratory(Prefered Method)](./Basics/Colab.md)
@@ -56,9 +57,6 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
         * Problem: [[pdf]](./unit02_simp_lin_reg/prob/prob_simp_lin_reg.pdf)
         * Lab: [Boston housing data](./unit02_simp_lin_reg/lab_housing_partial.ipynb) (submit both .ipynb and .pdf files) 
 
-
-`------Materials below are outdated and will be updated before each class.------`
-
 * Unit 3:  Multiple linear regression
     * Lecture:  Multiple linear regression [[pdf]](./lectures/Lect03_MultLinRegression.pdf)
      [[Powerpoint]](./lectures/Lect03_MultLinRegression.pptx)
@@ -66,7 +64,7 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
     * Demo 2: [Python broadcasting(Optional)](./unit03_mult_lin_reg/demo2_python_broadcasting.ipynb)
     * Whiteboard: [MS OneNote](https://1drv.ms/u/s!AhGPBmraRihnjy7q930t8ZWGk9Ch)   
     * In-class Exercise: [Linear regression](./unit03_mult_lin_reg/linreg_inclass.ipynb)
-    * Homework (Due on March 1, 23:59 PM ET)
+    * Homework (Due on on Sept 29, 23:59 PM ET)
         * Lab: [Calibrating robot dynamics](./unit03_mult_lin_reg/lab_robot_calib_partial.ipynb)
         * Problems [[pdf]](./unit03_mult_lin_reg/prob/prob_mult_reg.pdf)
 
@@ -75,9 +73,11 @@ please contact Sundeep Rangan at <srangan@nyu.edu>.
      [[Powerpoint]](./lectures/Lect04_ModelSelection.pptx)    
     * Demo 1: [Polynomial order selection with cross-validation](./unit04_model_sel/demo_polyfit.ipynb)
     * Demo 2: [Feature transforms and model validation(Optional)](./unit04_model_sel/demo2_transform.ipynb)
-    * Homework (Due on March 6, 23:59 PM ET)
+    * Homework (Due on Oct 6, 23:59 PM ET)
         * Lab: [Neural decoding motor cortex signals](./unit04_model_sel/lab_neural_partial.ipynb)          
         * Problems [[pdf]](./unit04_model_sel/prob/prob_model_sel.pdf)
+
+`------Materials below are outdated and will be updated before each class.------`
 
 * Unit 5:  Regularization and LASSO
     * Lecture:  LASSO Regularization [[pdf]](./lectures/Lect05_Lasso.pdf)
